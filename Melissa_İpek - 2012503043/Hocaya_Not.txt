@@ -1,0 +1,1 @@
+Hocam, "İş İlanı Projesi" adındaki klasör PHP kodlarımı barındırırken, "cevaplar" adındaki klasör veritabanımı barındırmaktadır
